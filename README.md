@@ -44,3 +44,7 @@ in our implementation we have a register for clock that added to 1 in each #500 
 for test it we should make testbench and in testbench check correctness of our module,below we show one of our test benches and some details ,but fully detailed test_benches are in .zip file and show correctness of them in our report.
 
 ![alt text](https://imgurl.ir/uploads/b55200_Screenshot_1460.png)
+![alt text](https://imgurl.ir/uploads/g617154_Screenshot_1461.png)
+![alt text](https://imgurl.ir/uploads/b401654_Screenshot_1462.png)
+![alt text](https://imgurl.ir/uploads/i6959_Screenshot_1463.png)
+![alt text](https://imgurl.ir/uploads/k662433_Screenshot_1464.png)

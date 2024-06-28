@@ -48,3 +48,5 @@ for test it we should make testbench and in testbench check correctness of our m
 ![alt text](https://imgurl.ir/uploads/b401654_Screenshot_1462.png)
 ![alt text](https://imgurl.ir/uploads/i6959_Screenshot_1463.png)
 ![alt text](https://imgurl.ir/uploads/k662433_Screenshot_1464.png)
+
+in this test first we want to import 250 cars for ordinary people and 250 cars for professors in the parking but for each 5 professor one of them exited from the parking,but because the capacity of ordinary people beofre 13:00 is 200,we can also import 200 of them into the parking,after that we want also import 20 cars of ordinary people and we can't do it,and also after that add 70 professor to parking,but in 14 o clock the capacity for professors be 450 and we exied some cars from professors and can add some ordinary people equal to 50 to it,and also after that in 18 we add (80) some ordinary people to parking and the capacity of professors be euqal to 245,and don't have any vacated space.

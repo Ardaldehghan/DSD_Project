@@ -37,3 +37,8 @@ outputs for module listed here:
 6. is_vacated_space:shows we have enough space in our parking for ordinary people.
 
 in our implementation we have a register for clock that added to 1 in each #500 delay and in posedge of clk we check if hour be 13 or 14 ,... change somthings in capacities,also we can implement hour in clk,but for confidence we seperate them.
+
+
+**testing code**
+
+for test it we should make testbench and in testbench check correctness of our module,below we show some of our test benches and some details of them ,but fully detailed test_benches are in .zip file and show correctness of them in our report.
